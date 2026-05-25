@@ -1,3 +1,5 @@
+[![skills.sh](https://skills.sh/b/codesyntax/jekyll-hyde-robert)](https://skills.sh/codesyntax/jekyll-hyde-robert)
+
 # Jekyll-Hyde-Robert: Triple-Agent Development Loop
 
 A specialized development workflow skill for OpenCode that enforces a three-layer process: **Project Management (Robert)**, **Junior Exploration (Jekyll)**, and **Senior Auditing (Hyde)**.
