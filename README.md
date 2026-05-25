@@ -23,12 +23,12 @@ The workflow automatically generates task logs in the `.tasks/` directory, provi
 - Risk Audit findings
 - PM Sign-off verification
 
-## Usage
+## How to install
 
-To activate this workflow in OpenCode, use the `skill` tool:
+Add it to your agent of choice running the following command and selection the correct options in the interactive prompt:
 
-```bash
-/skill jekyll-hyde-robert
+```sh
+npx skills add https://github.com/codesyntax/plone-expert-developer
 ```
 
 Once activated, every subsequent request will pass through the Triple-Agent pipeline.
